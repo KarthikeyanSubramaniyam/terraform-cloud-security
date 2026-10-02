@@ -1,0 +1,17 @@
+{
+  "planned_values": {
+    "root_module": {
+      "resources": [
+        {
+          "address": "aws_db_instance.demo",
+          "type": "aws_db_instance",
+          "values": {
+            "publicly_accessible": true,
+            "storage_encrypted": false
+          }
+        }
+      ]
+    }
+  }
+}
+
